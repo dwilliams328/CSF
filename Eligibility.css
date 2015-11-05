@@ -1,0 +1,22 @@
+h2{
+	color: green;
+}
+h3{
+	color: green;
+}
+a{
+	float: right; background-color: #1c75bb;
+}
+i{
+	color: #1c75bb;
+}
+#LO{
+	color: white;
+}
+hr{
+	margin: 5px;
+}
+#line{
+	border-width: 2px;
+	border-color: #000000;
+}
