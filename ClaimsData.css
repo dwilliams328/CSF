@@ -1,0 +1,29 @@
+h1{
+	color: #00a651;
+}
+h3{
+	color: #00a651;
+}
+i{
+	color: #1c75bb;
+}
+a{
+	float: right; color: white;
+}
+hr{
+	margin: 5px;
+}
+#line{
+	border-width: 2px;
+	border-color: #000000;
+}
+#Logout{
+	color: white;
+}
+div.LO{
+	width: 40px;
+	height: 20px;
+}
+#title{
+	font-size:30px;
+}

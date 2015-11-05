@@ -1,0 +1,26 @@
+h1{
+	color: green;
+}
+div.columns{
+	width: 1500px;
+}
+div.columns div {
+	width: 500px; height: 50px; float: left;
+}
+i{
+	height: 40px; width:40px;
+	color: #1c75bb;
+}
+a{
+	float: right; background-color: #1c75bb;
+}
+#Logout{
+	color: white;
+}
+hr{
+	margin: 5px;
+}
+#line{
+	border-width: 2px;
+	border-color: #000000;
+}
