@@ -1,0 +1,21 @@
+.panel-head{
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+    padding:10px;
+
+}
+#spacing{
+    margin-top:20px;
+}
+p{
+    text-align:center;
+    font-size:22px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+input[type=submit].btn-block {
+    width: 100%;
+    margin-top: 25px;
+}

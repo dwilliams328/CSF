@@ -1,39 +1,18 @@
-.center-block{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.header{
-	background-color:#f1f1f1;
-	padding:10px;
-	border:3px solid #00a651;
-	margin-top:10px;
-}
-p{
-	color:#1c75bb;
-	
-}
-/*make slightly grey and a barely noticable 3D illusion #EFEFEF*/
-
-a.logout{	
-	border: 2px solid #111111;
-    box-shadow: 1px 1px 1px #888888;
-	background-color:#1c75bb;
-	color:white;
-	float: right;    
+#Logout{
+    float:right;
+    color:black;
 }
 #Provider{
-	font-size:24px;
-	color:#1c75bb;
-}
-.home-btn{
-	background-color:#F4F4F4;
-	color: white;
-  text-transform: uppercase;
-  font-weight: bold;
-  margin: 4px;
-  width:100%;
-  box-shadow: 3px 3px 2px #888888;
+    font-size: 24px;
+    color: white;
+border-style:solid;
+border-color:#000000;
+background-color:#1c75bb;
+padding:15px 5px;
+margin-top:10px;
+
+
+
 }
 #Eligibility{
 	color:#1c75bb;
@@ -53,7 +32,39 @@ a.logout{
 #FAQs{
 	color:#1c75bb;
 }
+i{
+    color:red;
+}
+.color{
+    color:#1c75bb;
+}
 /*
+    .home-btn{
+	background-color:#F4F4F4;
+	color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 4px;
+  width:100%;
+  box-shadow: 3px 3px 2px #888888;
+}
+    a.logout{	
+	border: 2px solid #111111;
+    box-shadow: 1px 1px 1px #888888;
+	background-color:#1c75bb;
+	color:white;
+	float: right;    
+}
+
+    .home-btn{
+	background-color:#F4F4F4;
+	color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 4px;
+  width:100%;
+  box-shadow: 3px 3px 2px #888888;
+}
 	background-color:#AFAF93;
 	
 	 text-decoration: none;
